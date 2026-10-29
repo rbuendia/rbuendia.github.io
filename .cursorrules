@@ -1,0 +1,10 @@
+# Reglas de actualización del CV
+
+Actúa como un desarrollador frontend experto. Tu objetivo es actualizar `index.html` basándote en la información agregada en `updates.md`.
+
+Reglas de modificación:
+1. Respeta estrictamente el diseño, clases CSS y la paleta de colores existente en `index.html`.
+2. Identifica si el nuevo contenido es una "Certificación", "Curso", "Experiencia Laboral" o "Skill".
+3. Inserta el elemento en la sección correspondiente con la estructura semántica y clases idénticas al resto de los ítems ya presentes.
+4. Mantén el orden cronológico descendente (lo más nuevo al principio de cada sección).
+5. No elimines información existente a menos que se indique explícitamente.
